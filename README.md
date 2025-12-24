@@ -85,7 +85,7 @@ It complements standard optics textbooks such as:
 
 ---
 
-## 👨‍💻 About the Author
+##  About the Author
 **Eidan A. Abdullah** is a lecturer in the Department of Physics at the College of Science, Wasit University (Iraq). Ph.D. in Physics from the University of Baghdad, with advanced research training at the National Institute of Optics (INO), Florence, Italy. Research interests include laser physics, electro-optics, and nonlinear dynamical systems.
 
 This work presents an interactive virtual laboratory aimed at improving the teaching of geometrical optics through accurate ray tracing and physically consistent modeling.
@@ -94,7 +94,7 @@ This work presents an interactive virtual laboratory aimed at improving the teac
 
 ---
 
-## 📜 License
+##  License
 This project is released for **educational and academic use**.
 
 - Proper attribution to the author is required.
@@ -105,7 +105,7 @@ This project is released for **educational and academic use**.
 Creative Commons **CC BY-NC-SA 4.0**
 
 ---
-## 📷 Screenshots
+##  Screenshots
 
 ### Single Thin Lens Simulation
 ![Single Thin Lens](screenshots/single_lens.png)
@@ -119,7 +119,7 @@ Creative Commons **CC BY-NC-SA 4.0**
 ### Spherical Mirrors
 ![Spherical Mirrors](screenshots/mirrors.png)
 -----------
-## 🚀 How to Use
+##  How to Use
 1. Open the **Live Demo** link above in any modern web browser  
 2. Adjust the simulation parameters using the interactive controls  
 3. Explore image formation and ray behavior in geometrical optics in real time
