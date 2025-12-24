@@ -105,7 +105,20 @@ This project is released for **educational and academic use**.
 Creative Commons **CC BY-NC-SA 4.0**
 
 ---
+## 📷 Screenshots
 
+### Single Thin Lens Simulation
+![Single Thin Lens](screenshots/single_lens.png)
+
+### Two-Lens System
+![Two-Lens System](screenshots/two_lenses.png)
+
+### Lens Maker’s Formula
+![Lens Maker](screenshots/lens_maker.png)
+
+### Spherical Mirrors
+![Spherical Mirrors](screenshots/mirrors.png)
+-----------
 ## 🚀 How to Use
 1. Open the **Live Demo** link above in any modern web browser  
 2. Adjust the simulation parameters using the interactive controls  
