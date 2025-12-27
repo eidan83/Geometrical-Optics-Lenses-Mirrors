@@ -1,5 +1,10 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18070606.svg)](https://doi.org/10.5281/zenodo.18070606)
+[![GitHub Pages](https://img.shields.io/badge/demo-live-blue)](https://eidan83.github.io/Geometrical-Optics-Lenses-Mirrors/)
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-green)](LICENSE)
+
+# Geometrical Optics: Lenses & Mirrors Simulator
+
 
 #  Geometrical Optics: Lenses & Mirrors Simulator
 
