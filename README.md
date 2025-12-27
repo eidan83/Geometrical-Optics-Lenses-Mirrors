@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18070606.svg)](https://doi.org/10.5281/zenodo.18070606)
+
 #  Geometrical Optics: Lenses & Mirrors Simulator
 
 **An Interactive Web-Based Virtual Laboratory for Geometrical Optics**
