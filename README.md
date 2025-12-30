@@ -6,6 +6,8 @@
 #  Geometrical Optics: Lenses & Mirrors Simulator
 
 **An Interactive Web-Based Virtual Laboratory for Geometrical Optics**
+If you use this simulator in teaching or research, please cite:
+E. A. Abdullah (2025), Geometrical Optics: Lenses and Mirrors Interactive Simulator, Zenodo, DOI:10.5281/zenodo.18070606
 
 ---
 
