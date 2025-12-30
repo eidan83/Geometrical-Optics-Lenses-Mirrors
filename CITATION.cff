@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Geometrical Optics: Lenses and Mirrors Interactive Simulator"
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Abdullah
+    given-names: Eidan A.
+year: 2025
+doi: 10.5281/zenodo.18070606
+url: https://eidan83.github.io/Geometrical-Optics-Lenses-Mirrors/
